@@ -1,0 +1,1 @@
+pip install keyboard openpyxl xlrd xlwtl psutil pyautogui
